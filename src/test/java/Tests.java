@@ -8,7 +8,7 @@ public class Tests {
 
     @Test
     public void alwaysTrue(){
-        assertTrue(ForBuild.allwaysFalse());
+        assertTrue(ForBuild.alwaysFalse());
 
 
     }
