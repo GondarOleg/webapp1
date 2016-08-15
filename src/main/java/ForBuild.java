@@ -7,4 +7,8 @@ public class ForBuild {
         return true;
     }
 
+    public static boolean allwaysFalse(){
+        return false;
+    }
+
 }
