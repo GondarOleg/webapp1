@@ -8,12 +8,16 @@ public class Tests {
 
     @Test
     public void alwaysTrue(){
-        assertTrue(ForBuild.alwaysTrue());
+        assertTrue(ForBuild.allwaysFalse());
+
+
     }
 
     @Test
     public void alwaysFalse(){
-        assertFalse(ForBuild.allwaysFalse());
+
+        assertFalse(ForBuild.alwaysTrue());
+
     }
 
 }
