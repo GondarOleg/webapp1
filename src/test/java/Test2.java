@@ -9,7 +9,7 @@ public class Test2 {
     @Test
     public void alwaysFalse(){
 
-        assertFalse(ForBuild.alwaysTrue());
+        assertFalse(ForBuild.alwaysFalse());
 
     }
 }
